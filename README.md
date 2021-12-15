@@ -6,6 +6,7 @@
 <br>
 
 <div id = "info">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 I’m currently Using 
 <br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -17,11 +18,13 @@ I’m currently Using
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
-  
+ 
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br><br><br>
-  
+
+
 I'm currently Learning
 <br><br> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,6 +33,8 @@ I'm currently Learning
   </div>
   
  <div id = "contact">
+   
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 Contact : 
 <a href="https://phoenix1228@dgu.ac.kr"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://phoenix1228@dgu.ac.kr"/></a>
 <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
