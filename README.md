@@ -5,7 +5,8 @@ welcome to my github page!
   
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 <br>
-  </
+</div>
+<br><br>
 
 <div id = "info">
 I’m currently Using 
@@ -23,12 +24,11 @@ I’m currently Using
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<br><br><br><br><br>
+<br><br>
 
 
 I'm currently Learning
   
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 <br><br> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
