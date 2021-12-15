@@ -9,6 +9,8 @@ welcome to my github page!
 <br><br>
 
 <div id = "info">
+  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 I’m currently Using 
 <br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
