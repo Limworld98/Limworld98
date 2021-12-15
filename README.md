@@ -3,7 +3,7 @@
 <div align=center>
 ### welcome to my github page!
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
-     
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 <br>
 
 <div>
@@ -28,10 +28,7 @@ I'm currently Learning
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
-</div>
-<br><br>
-<div>
+
 Contact : 
 <a href="https://phoenix1228@dgu.ac.kr"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://phoenix1228@dgu.ac.kr"/></a>
 <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
