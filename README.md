@@ -36,7 +36,7 @@ I'm currently Learning
 <br><br>
 
 <div id = "contact">  
-Contact <br>
+Contact <br><br>
 <a href="https://phoenix1228@dgu.ac.kr"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://phoenix1228@dgu.ac.kr"/></a>
 <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>  
