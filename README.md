@@ -38,7 +38,6 @@ I’m currently Using
 </div>
   
  
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=dracula)](https://github.com/Limworld98)
 </div>
 
