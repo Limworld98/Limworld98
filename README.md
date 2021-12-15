@@ -23,8 +23,8 @@ I’m currently Using
   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
-  <br><br><br>
+<br><br><br>
+  
 I'm currently Learning
 <br><br> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -39,7 +39,8 @@ Contact :
 <br><br>  
 </div>
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Limworld98&show_icons=true&theme=tokyonight)](https://github.com/Limworld98/github-readme-stats)<br><br>  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=tokyonight)](https://github.com/Limworld98)
 <br><br>
 </div>
