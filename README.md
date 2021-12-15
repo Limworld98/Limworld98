@@ -1,7 +1,7 @@
 
 
-<div>
-  <div align = 'left'>welcome to Limworld98's github page!</div>
+<div align = 'center'>
+  <div align = 'left'> welcome to Limworld98's github page!</div>
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 </div>
 
