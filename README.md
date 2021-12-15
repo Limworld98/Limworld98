@@ -37,12 +37,12 @@ I'm currently Learning
  More
 <br><br>  
 Contact : 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phoenix1228@gmail.com)
 <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>  
 </div>
   
  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phoenix1228@gmail.com)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Limworld98&show_icons=true&theme=tokyonight)](https://github.com/Limworld98/github-readme-stats)<br><br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=tokyonight)](https://github.com/Limworld98)
 <br><br>
