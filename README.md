@@ -24,7 +24,7 @@ I’m currently Using
   
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 
-<p style="margin-bottom:5px;">I'm currently Learning 
+<p style="padding-bottom:5px;">I'm currently Learning 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
