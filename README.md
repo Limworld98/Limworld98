@@ -29,8 +29,6 @@ I’m currently Using
 </div>
 
 <br><br>
-
-
 <div>
  More
 <br><br>  
@@ -38,7 +36,8 @@ I’m currently Using
 </div>
   
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=dracula)](https://github.com/Limworld98)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Limworld98&show_icons=true&theme=tokyonight)](https://github.com/Limworld98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=tokyonight)](https://github.com/Limworld98)
 </div>
 
 
