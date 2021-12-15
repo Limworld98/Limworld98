@@ -1,7 +1,13 @@
 
+<style>
+tr, td, th {
+   border: none!important;
+}
+</style>
+
 <div align=center>
  <table>
-   <tr border="0">
+   <tr>
      <td>
 ### welcome to my github page! :)
 <br><br>
