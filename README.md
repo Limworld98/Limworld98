@@ -2,7 +2,7 @@
 
 <div>
   welcome to Limworld98's github page!
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 </div>
 
 <br>
@@ -22,7 +22,7 @@ I’m currently Using
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br><br>
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 I'm currently Learning
 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
