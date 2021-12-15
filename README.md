@@ -41,7 +41,6 @@ Contact :
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limworld98&layout=compact&theme=tokyonight)](https://github.com/Limworld98)
 <br><br>
 </div>
 
