@@ -23,9 +23,9 @@ I’m currently Using
 <br><br>
   
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
-
+<div style = "margin-bottom:209px;">
 I'm currently Learning
-  <p>
+  </div>
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
