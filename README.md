@@ -37,7 +37,7 @@ I'm currently Learning
  More
 <br><br>  
 Contact : 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phoenix1228@dgu.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phoenix1228@gmail.com)
 <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>  
 </div>
