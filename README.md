@@ -30,6 +30,7 @@ I'm currently Learning
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 <br><br>
 <div>
 Contact : 
@@ -38,7 +39,6 @@ Contact :
 <br><br>  
 </div>
  
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
 <br><br>
 </div>
 
