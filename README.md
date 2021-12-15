@@ -1,8 +1,8 @@
 
 
 <div>
-welcome to Limworld98's github page!
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
+  <div align = 'left'>welcome to Limworld98's github page!</div>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 </div>
 
 <br>
@@ -23,9 +23,8 @@ I’m currently Using
 <br><br>
   
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
-<div style = "margin-bottom:500px;">
 I'm currently Learning
-  </div>
+<br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
