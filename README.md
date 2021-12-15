@@ -1,6 +1,6 @@
 
 <div align=center>
- <table style="border :0">
+ <table style="border :0px">
    <tr>
      <td>
 ### welcome to my github page! :)
