@@ -32,8 +32,6 @@ I'm currently Learning
 <br><br>
 </div>
 
-<br>
-
 <div id = "contact">  
 Contact <br><br>
 <a href="https://phoenix1228@dgu.ac.kr"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://phoenix1228@dgu.ac.kr"/></a>
