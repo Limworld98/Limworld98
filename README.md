@@ -1,11 +1,18 @@
 
 <div align=center>
-  
+ <table>
+   <tr>
+     <td>
 ### welcome to my github page! :)
 <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimworld98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+     </td>
+     <td>     
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
+     </td>
+   </tr>
+  </table>
 <br>
 
 <div>
@@ -40,7 +47,6 @@ Contact :
 </div>
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
 <br><br>
 </div>
 
