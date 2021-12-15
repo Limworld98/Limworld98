@@ -1,5 +1,5 @@
 
-<div align=center>
+<div align=center border = "0">
  <table>
    <tr>
      <td>
