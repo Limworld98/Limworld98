@@ -5,8 +5,6 @@ welcome to my github page!
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 </div>
 
-<br><br>
-
 <div id = "info">
 I’m currently Using 
 <br><br>
