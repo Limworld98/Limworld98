@@ -32,7 +32,7 @@ I'm currently Learning
 <br><br>
 </div>
 
-<br><br>
+<br>
 
 <div id = "contact">  
 Contact <br><br>
