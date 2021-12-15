@@ -1,7 +1,7 @@
 
 <div align=center>
- <table style="border :none">
-   <tr>
+ <table>
+   <tr border="0">
      <td>
 ### welcome to my github page! :)
 <br><br>
