@@ -36,7 +36,9 @@ I'm currently Learning
 <div>
  More
 <br><br>  
-Contact : <a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+Contact : 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phoenix1228@dgu.ac.kr)
+<a href="https://www.instagram.com/hyxxlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>  
 </div>
   
