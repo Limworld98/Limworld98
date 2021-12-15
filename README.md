@@ -2,8 +2,10 @@
 
 <div align=center>
 ### welcome to my github page!
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" height="165">
+  
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 <br>
+  </
 
 <div id = "info">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
