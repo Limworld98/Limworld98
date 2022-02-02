@@ -2,7 +2,7 @@
 
 <div>
   welcome to Limworld98's github page
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phoenix1228"/>
 </div>
 
 <br>
