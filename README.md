@@ -12,8 +12,6 @@ I’m currently Using
 <br><br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br><br>
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
