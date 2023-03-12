@@ -17,7 +17,7 @@ I’m currently Using
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Limworld98" >
 I'm currently Learning
 <br><br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ 
 <br><br>
 </div>
 
